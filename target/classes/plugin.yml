@@ -1,0 +1,13 @@
+name: DRLightsUp
+version: ${project.version}
+main: drlightsup.DRLightsUp
+authors: [DanielRottner]
+description: DRLightsUp minecraft plugin for invisible lights.
+api-version: 1.12
+
+commands:
+    drlightsup:
+        description: toggle lights mode of a player.
+        permission: drlightsup.use
+        permission-message: You do not have permission to run this command!
+        usage: /<command>

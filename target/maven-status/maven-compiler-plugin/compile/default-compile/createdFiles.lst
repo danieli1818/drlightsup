@@ -1,0 +1,10 @@
+drlightsup\DRLightsUp.class
+drlightsup\management\lightsources\BasicLightSource.class
+drlightsup\utils\MessagesSender.class
+drlightsup\utils\SchedulerUtils.class
+drlightsup\utils\FileConfigurationsManager.class
+drlightsup\management\lightsources\LightSource.class
+drlightsup\listeners\LightsPutListener.class
+drlightsup\utils\ArgumentsParser.class
+drlightsup\commands\DRLightsUpCommands.class
+drlightsup\management\LightsManager.class
